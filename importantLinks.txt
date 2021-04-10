@@ -1,0 +1,4 @@
+https://github.com/slimkrazy/python-google-places
+
+setx PATH “%PATH%;C:\Python37\Scripts”
+
