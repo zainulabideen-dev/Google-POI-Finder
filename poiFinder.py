@@ -1,5 +1,5 @@
 from googleplaces import GooglePlaces, types, lang
-APIKEY = 'AIzaSyCrQS1-U09_8Mm6TpZM8oQsDFzddmvp8po'
+APIKEY = 'YOUR_API_KEY'
 google_places = GooglePlaces(APIKEY)
 
 def FetchPoi():
